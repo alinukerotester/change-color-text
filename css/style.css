@@ -1,0 +1,11 @@
+::selection {
+    color: #000;
+}
+
+h1::selection {
+    background: #10ff00;
+}
+
+p::selection {
+    background: #f8ff00;
+}
